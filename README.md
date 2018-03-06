@@ -1,4 +1,4 @@
-# MeetupDemo
+# LRGMeetupAPIDemo
 
 Aplicación Demo para Tutorial de Conexión con la API de Meetup.
 
